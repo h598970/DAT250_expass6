@@ -1,4 +1,4 @@
-# DAT250 Expass 7 hand-in for Andreas Øihaugen
+# DAT250 Expass 6 hand-in for Andreas Øihaugen
 
 ## Technical problems
 No issues to report
